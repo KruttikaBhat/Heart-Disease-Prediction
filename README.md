@@ -8,4 +8,4 @@ We performed preprocessing, descriptive analytics and predictive analytics on th
 
 The original dataset is titled "heart.csv". After preprocessing, the dataset was stored as "after_preprocessing.csv" which was used in further analysis.
 
-8 different models were trained and tested on the dataset for prediction of heart disease. These models are stored separately in the folder titled "models". This folder meay be used to load any one of the trained models. The training and testing accuracy of the models may be found in model_results.csv.
+8 different models were trained and tested on the dataset for prediction of heart disease. These models are stored separately in the folder titled "models". This folder meay be used to load any one of the trained models. The training and testing accuracy of the models may be found in "model_results.csv".
